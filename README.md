@@ -28,8 +28,8 @@ These files are intended for use with the IsoPairFinder tool or similar mass spe
 
 If you use this data in your research or publication, please cite the IsoPairFinder project accordingly.
 
-- Liu, Y. et al. Gut bacteria degrade purines via the 2,8-dioxopurine pathway. Nature Microbiology Accepted, (2025).
-- Zhou, Z. et al. IsoPairFinder: An R package for identifying potential intermediates from Stable Isotope Tracing metabolomics data, In preparation, 2025
+- Liu, Y. et al. Gut bacteria degrade purines via the 2,8-dioxopurine pathway. Nature Microbiology Accepted, (2025). [bioRxiv](https://doi.org/10.1101/2025.04.24.650524)
+- Zhou, Z. et al. IsoPairFinder: A tool for biochemical pathway discovery using stable isotope tracing metabolomics, In preparation, **2025**
 
 ## Contact
 
