@@ -6,7 +6,7 @@ This repository contains demo data for the IsoPairFinder project, which is used 
 
 - `peak_table_C12.csv` / `peak_table_C13.csv`: Peak tables for 12C and 13C labeled samples.
 - `sample_info.csv`: Metadata about the samples included in the dataset.
-- `hyuA_12C/`, `hyuA_13C/`, `WT_12C/`, `WT_13C/`: Folders containing `.mzML` files for different sample groups and isotopic labels.
+- `MUTANT_12C/`, `MUTANT_13C/`, `WT_12C/`, `WT_13C/`: Folders containing `.mzML` files for different sample groups and isotopic labels.
 - `ms2/`: Contains MS2 data files for pooled QC samples.
 
 ## Usage
@@ -21,7 +21,7 @@ These files are intended for use with the IsoPairFinder tool or similar mass spe
 
 - **peak_table_C12.csv / peak_table_C13.csv**: Processed peak tables for 12C and 13C samples.
 - **sample_info.csv**: Sample metadata including group, label, and file associations.
-- **[group_label]/**: Folders containing raw `.mzML` files for each sample group and isotopic label.
+- **group_label**: Folders containing raw `.mzML` files for each sample group and isotopic label.
 - **ms2/**: MS2 spectra for pooled QC samples.
 
 ## Citation
