@@ -1,6 +1,6 @@
 # IsoPairFinder Demo Data
 
-This repository contains demo data for the IsoPairFinder project, which is used for isotopic labeling experiments and mass spectrometry data analysis. The data provided here can be used to test and demonstrate the IsoPairFinder workflow. This demo data set belongs to the [uric acid catabolism study](https://www.biorxiv.org/content/10.1101/2025.04.24.650524v1). We acquired the stable isotope tracing metabolomics for hyuA mutant and WT samples which are curated with 12C uric acid and 13C uric acid. The raw data are processed by the MS-DIAL to generate peak tables. This demo data includes processed peak tables and raw mass spectrometry files.
+This repository contains demo data for the IsoPairFinder project, which is used for isotopic labeling experiments and mass spectrometry data analysis. The data provided here can be used to test and demonstrate the IsoPairFinder workflow. This demo data set belongs to the [uric acid catabolism study](https://doi.org/10.1038/s41564-025-02079-4). We acquired the stable isotope tracing metabolomics for hyuA mutant and WT samples which are curated with 12C uric acid and 13C uric acid. The raw data are processed by the MS-DIAL to generate peak tables. This demo data includes processed peak tables and raw mass spectrometry files.
 
 ## Directory Structure
 
@@ -28,7 +28,7 @@ These files are intended for use with the IsoPairFinder tool or similar mass spe
 
 If you use this data in your research or publication, please cite the IsoPairFinder project accordingly.
 
-- Liu, Y. et al. Gut bacteria degrade purines via the 2,8-dioxopurine pathway. Nature Microbiology Accepted, (2025). [bioRxiv](https://doi.org/10.1101/2025.04.24.650524)
+- Liu, Y. et al. Gut bacteria degrade purines via the 2,8-dioxopurine pathway. Nature Microbiology, (2025).[Link](https://doi.org/10.1038/s41564-025-02079-4) [bioRxiv](https://doi.org/10.1101/2025.04.24.650524)
 - Zhou, Z. et al. IsoPairFinder: A tool for biochemical pathway discovery using stable isotope tracing metabolomics, In preparation, **2025**
 
 ## Contact
